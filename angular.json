@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "rofelixkGithubSite"
+  "defaultProject": "rofelixkGithubSite",
+  "cli": {
+    "analytics": "563c679c-8a62-4a70-a9b3-421cef4b38cd"
+  }
 }
